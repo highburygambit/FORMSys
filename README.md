@@ -1,2 +1,2 @@
 # FORMSys
-Footballer Management System
+FOotballeR Management System
